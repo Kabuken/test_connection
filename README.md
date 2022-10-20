@@ -1,2 +1,2 @@
-# data-trap HP
-This page is data-trap.llc HP.
+# DATA-TRAP HP
+This page is DATA-TRAP.LLC HP.
